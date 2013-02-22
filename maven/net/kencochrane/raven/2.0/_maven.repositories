@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Feb 22 14:30:51 CET 2013
+raven-2.0.jar>=
+raven-2.0-jar-with-dependencies.jar>=
+raven-2.0.pom>=

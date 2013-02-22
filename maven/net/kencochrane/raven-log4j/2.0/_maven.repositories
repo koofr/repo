@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Feb 22 14:30:58 CET 2013
+raven-log4j-2.0.pom>=
+raven-log4j-2.0-jar-with-dependencies.jar>=
+raven-log4j-2.0.jar>=
