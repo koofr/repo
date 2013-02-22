@@ -1,4 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Feb 22 18:29:34 CET 2013
+#Fri Feb 22 22:59:25 CET 2013
 scrooge-generator-3.0.43.pom>=
+scrooge-generator-3.0.43-jar-with-dependencies.jar>=
 scrooge-generator-3.0.43.jar>=
